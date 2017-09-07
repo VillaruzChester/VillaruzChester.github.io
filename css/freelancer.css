@@ -448,3 +448,14 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+#uc {
+
+  width: 100%;
+}
+
+#mypic {
+  width: 30%;
+  height: 30%;
+  border-radius: 150px;
+}
